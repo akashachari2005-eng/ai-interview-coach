@@ -58,7 +58,7 @@ ai-interview-coach/
     ├── nlp_module/             # Resume parsing & question generation
     ├── evaluator/              # Answer evaluation & report generation
     ├── requirements.txt        # Python dependencies
-    ├── .env                    # API keys (not tracked)
+    ├── .env                    
     ├── .gitignore
     └── README.md
 ```

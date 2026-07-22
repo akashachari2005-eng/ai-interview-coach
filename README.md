@@ -22,7 +22,7 @@ An AI-powered web application that helps job seekers prepare for interviews by p
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<username>/ai-interview-coach.git
+git clone https://github.com/akashachari2005-eng/ai-interview-coach.git
 cd ai-interview-coach
 ```
 

@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+uploads/
+sample_resumes/*.pdf
+.DS_Store
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
